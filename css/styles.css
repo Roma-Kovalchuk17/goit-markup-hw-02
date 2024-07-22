@@ -155,11 +155,11 @@ body {
 }
 /* section2 */
 
-.team-section {
+.section-team {
   background-color: #f4f4fd;
 }
 
-.team-section ul {
+.section-team ul {
   list-style-type: none;
 }
 
@@ -167,11 +167,11 @@ body {
   background-color: #ffffff;
 }
 
-.team-section ul a {
+.section-team ul a {
   background-color: #ffffff;
 }
 
-.team-section ul li h3 {
+.section-team ul li h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -205,7 +205,7 @@ body {
   background-color: #ffffff;
 }
 
-.secondary-heading {
+.sect-heading {
   font-weight: 700;
   font-size: 36px;
   line-height: 111%;
