@@ -171,16 +171,14 @@ body {
 }
 
 .team-section ul {
-  background-color: #ffffff;
-}
-
-.team-section ul {
   list-style-type: none;
 }
 
-.title-two {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
+.team-section ul {
+  background-color: #ffffff;
+}
+
+.third-sect {
   font-weight: 700;
   font-size: 36px;
   line-height: 40px;
@@ -188,11 +186,10 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .name-hero {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
@@ -218,10 +215,6 @@ body {
   background-color: #ffffff;
 }
 
-.sect-portfolio ul {
-  list-style-type: none;
-}
-
 .secondary-heading {
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -232,6 +225,10 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.sect-portfolio ul {
+  list-style-type: none;
 }
 
 .block-heading {
