@@ -66,13 +66,14 @@ body {
   letter-spacing: 0.02em;
   color: #404bbf;
 }
-.infostudio:active {
+.infostudio:focus {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
   line-height: 150%;
   letter-spacing: 0.02em;
   text-decoration: underline;
+  color: #404bbf;
 }
 
 .address {
@@ -101,6 +102,9 @@ body {
   letter-spacing: 0.02em;
   color: #404bbf;
   text-decoration: none;
+}
+.contacts:focus {
+  color: #404bbf;
 }
 /* mail */
 /* section */
@@ -162,13 +166,16 @@ body {
 }
 /* section2 */
 
-.team {
+.team-section {
   background-color: #f4f4fd;
 }
 
-.team ul {
-  list-style-type: none;
+.team-section ul {
   background-color: #ffffff;
+}
+
+.team-section ul {
+  list-style-type: none;
 }
 
 .title-two {
