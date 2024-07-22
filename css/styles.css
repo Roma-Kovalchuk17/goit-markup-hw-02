@@ -174,22 +174,15 @@ body {
   list-style-type: none;
 }
 
-.team-section ul {
+.heros {
   background-color: #ffffff;
 }
 
-.third-sect {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 40px;
-  line-height: 111%;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-  text-transform: capitalize;
+.team-section ul a {
+  background-color: #ffffff;
 }
 
-.name-hero {
+.team-section ul li h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
@@ -210,14 +203,8 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-/* section3 */
-.sect-portfolio {
-  background-color: #ffffff;
-}
 
-.secondary-heading {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
+.third-sect {
   font-weight: 700;
   font-size: 36px;
   line-height: 40px;
@@ -225,26 +212,39 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-transform: capitalize;
+}
+/* section3 */
+.sect-portfolio {
+  background-color: #ffffff;
+}
+
+.secondary-heading {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  line-height: 111%;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .sect-portfolio ul {
   list-style-type: none;
 }
 
-.block-heading {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
+.sect-portfolio ul li h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
   line-height: 120%;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
-.profession {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
+.sect-portfolio ul li p {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
